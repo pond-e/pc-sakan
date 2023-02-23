@@ -17,4 +17,4 @@ pc-sakanは縦長の壁紙画像をPC背景として使えるように加工し�
 
 画像は16:9で生成されます。背景色は元の画像の中で一番使われている色が採用されるので、背景が単色の画像だときれいに生成出来ます。
 
-<img height="200" src="demo.png"> <img height="200" src="demo_desktop.png">
+<img height="200" src="demo_pic.png"> <img height="200" src="demo_pic_desktop.png">
